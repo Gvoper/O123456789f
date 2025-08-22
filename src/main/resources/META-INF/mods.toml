@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="o123456789f"
+version="1.0"
+displayName="o123456789f"
+logoFile="icon.png"
+description='''change your font/render to Forge 1.20.1'''
+authors="Gvoper"

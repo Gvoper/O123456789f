@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "Gvopus10.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "o123456789f.refmap.json",
+  "client": [
+    "FontMixin",
+    "GuiGraphicsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
